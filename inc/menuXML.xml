@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <visitor>
+        <item>
+            <name>
+                Home
+            </name>
+            <id>
+                home
+            </id>
+            <href>
+                sites/home.php
+            </href>
+        </item>
+        <item>
+            <name>
+                Produkte
+            </name>
+            <id>
+                produkte
+            </id>
+            <href>
+                sites/produkte.php
+            </href>
+        </item>
+        <item>
+            <name>
+                Warenkorb
+            </name>
+            <id>
+                warenkorb
+            </id>
+            <href>
+                sites/warenkorb.php
+            </href>
+        </item>
+    </visitor>
+    <user>
+        <item>
+            <name>
+                Home
+            </name>
+            <id>
+                home
+            </id>
+            <href>
+                sites/home.php
+            </href>
+        </item>
+        <item>
+            <name>
+                Produkte
+            </name>
+            <id>
+                produkte
+            </id>
+            <href>
+                sites/produkte.php
+            </href>
+        </item>
+        <item>
+            <name>
+                Mein Konto
+            </name>
+            <id>
+                meinkonto
+            </id>
+            <href>
+                sites/meinkonto.php
+            </href>
+        </item>
+        <item>
+            <name>
+                Warenkorb
+            </name>
+            <id>
+                warenkorb
+            </id>
+            <href>
+                sites/warenkorb.php
+            </href>
+        </item>
+    </user>
+    <admin>
+        <item>
+            <name>
+                Home
+            </name>
+            <id>
+                home
+            </id>
+            <href>
+                sites/home.php
+            </href>
+        </item>
+        <item>
+            <name>
+                Produkte bearbeiten
+            </name>
+            <id>
+                produktebearbeiten
+            </id>
+            <href>
+                sites/produktebearbeiten.php
+            </href>
+        </item>
+        <item>
+            <name>
+                Kunden verwalten
+            </name>
+            <id>
+                kundenverwalten
+            </id>
+            <href>
+                sites/kundenverwalten.php
+            </href>
+        </item>
+        <item>
+            <name>
+                Gutscheine verwalten
+            </name>
+            <id>
+                gutscheineverwalten
+            </id>
+            <href>
+                sites/gutscheineverwalten.php
+            </href>
+        </item>
+    </admin>
+</root>
